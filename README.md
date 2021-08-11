@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Deathwalker9959
+- 👀 I’m interested in walking on death
+- 🌱 I’m currently learning how to die
+- 💞️ I’m looking to collaborate on mass death
+- 📫 How to reach me ask the reaper
