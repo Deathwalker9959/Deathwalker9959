@@ -22,9 +22,9 @@ src="https://img.shields.io/github/followers/Deathwalker9959?logo=github&style=f
 <br />
 </h1>
 
-<p align='center'><em><b>Coming together is a beginning; keeping together is progress; working together is success.</b></em>
+<p align='center'><em><b>The best or nothing.</b></em>
 <br/>
- <em><b>- Henry Ford</b></em>
+ <em><b>- Karl Benz</b></em>
 <br><br/>
 
 <p align="center">
@@ -152,6 +152,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
   <img src='https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Deathwalker9959&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
   </a>
 
-</details>
+</details>  
 
 #### To reach me: just send an email, or a message on discord , all links are above! 
