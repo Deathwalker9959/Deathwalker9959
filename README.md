@@ -154,12 +154,4 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 
 </details>
 
-<details>
-    <summary><b>📈&nbsp;&nbsp;Activity History</b></summary>
-  <br>
-  <a href='https://profile.codersrank.io/user/deathwalker9959/'>
-    <img src='https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=Deathwalker9959'>
-  </a>
-</details>
-
 #### To reach me: just send an email, or a message on discord , all links are above! 
