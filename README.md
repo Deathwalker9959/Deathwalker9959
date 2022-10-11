@@ -4,7 +4,7 @@
 src="https://img.shields.io/github/followers/Deathwalker9959?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 [![Discord](https://img.shields.io/static/v1?label=&labelColor=6E85D3&message=Deathwalker9959&color=555555&style=flat&logo=discord&logoColor=white)](https://discord.com/users/Deathwalker9959#4614)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/itsme_shibintmz/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/andreas_malathouras/)
 [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreas-malathouras-892251201/)
 
 🔗 &nbsp;**Connect with me**
@@ -15,7 +15,7 @@ src="https://img.shields.io/github/followers/Deathwalker9959?logo=github&style=f
 <a href="https://www.instagram.com/andreas_malathouras/">
   <img align="left" alt="Andreas's Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
 </a>
-<a href="https://www.linkedin.com/in/shibin-thomas-343615206">
+<a href="https://www.linkedin.com/in/andreas-malathouras-892251201">
   <img align="left" alt="Andreas's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
@@ -31,7 +31,7 @@ src="https://img.shields.io/github/followers/Deathwalker9959?logo=github&style=f
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Tech%20Enthusiast;Always%20learning%20new%20things;Evolving&center=true&width=500&height=50"></a>
 </p>
 
-Hi, I'm [Andreas Malathouras](https://github.com/itsmeshibintmz), a passionate self-taught web developer and tech enthusiast from India. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Andreas Malathouras](https://github.com/Deathwalker9959), a passionate self-taught web developer and tech enthusiast from India. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I'm 20 years old and currently studying for a Bachelors Degree of Computer Science at [Frederick University](https://www.frederick.ac.cy/school-of-engineering-undergraduate-programs/bsc-in-computer-science). 
 
@@ -82,11 +82,11 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 - Trying to wake up earlier to make good use of the day
 
 📈 &nbsp; My Github Stats
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Deathwalker9959&theme=darkhub&margin-w=15&margin-h=15&coloumn=3&row=1" alt="itsmeshibintmz" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Deathwalker9959&theme=darkhub&margin-w=15&margin-h=15&coloumn=3&row=1" alt="Andreas" /></a> </p>
 
-<p> <img src="https://github-readme-stats-itsmeshibintmz.vercel.app/api?username=itsmeshibintmz&show_icons=true&&line_height=25&width=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="Deathwalker9959" /> 
+<p> <img src="https://github-readme-stats-itsmeshibintmz.vercel.app/api?username=Deathwalker9959&show_icons=true&&line_height=25&width=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="Deathwalker9959" /> 
 
-<a href="http://www.github.com/itsmeshibintmz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Deathwalker9959&stroke=ffffff&background=000000&ring=0891b2&fire=FF0000&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a>
+<a href="http://www.github.com/Deathwalker9959"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Deathwalker9959&stroke=ffffff&background=000000&ring=0891b2&fire=FF0000&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a>
 
 <!--
   ---
@@ -94,7 +94,7 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
   
 ## Contribution Graph
   <br/>
-   <a href="https://github.com/itsmeshibintmz"><img alt="Andreas's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Deathwalker9959&custom_title=Andreas%20Malathouras's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Deathwalker9959"><img alt="Andreas's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Deathwalker9959&custom_title=Andreas%20Malathouras's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 <br/>
