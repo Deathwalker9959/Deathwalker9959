@@ -31,7 +31,7 @@ src="https://img.shields.io/github/followers/Deathwalker9959?logo=github&style=f
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Tech%20Enthusiast;Always%20learning%20new%20things;Evolving&center=true&width=500&height=50"></a>
 </p>
 
-Hi, I'm [Andreas Malathouras](https://github.com/Deathwalker9959), a passionate self-taught web developer and tech enthusiast from India. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Andreas Malathouras](https://github.com/Deathwalker9959), a passionate self-taught web developer and tech enthusiast from Cyprus . My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I'm 20 years old and currently studying for a Bachelors Degree of Computer Science at [Frederick University](https://www.frederick.ac.cy/school-of-engineering-undergraduate-programs/bsc-in-computer-science). 
 
@@ -71,8 +71,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 </p>
-
-📊 **&nbsp;this week i spent my time on:** 
 
 <!--END_SECTION:waka-->
 
