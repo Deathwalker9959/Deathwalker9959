@@ -9,31 +9,21 @@ src="https://img.shields.io/github/followers/Deathwalker9959?logo=github&style=f
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://discordapp.com/channels/@me/Deathwalker9959#4614/">
-  <img align="left" alt="Andreas's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://www.instagram.com/andreas_malathouras/">
-  <img align="left" alt="Andreas's Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
-</a>
-<a href="https://www.linkedin.com/in/andreas-malathouras-892251201">
-  <img align="left" alt="Andreas's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 <br />
 </h1>
 
-<p align='center'><em><b>The best or nothing.</b></em>
+<p align='center'><em><b>Code is my canvas, and innovation is my masterpiece.</b></em>
 <br/>
- <em><b>- Karl Benz</b></em>
+ <em><b>- Andreas Malathouras.</b></em>
 <br><br/>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Tech%20Enthusiast;Always%20learning%20new%20things;Evolving&center=true&width=500&height=50"></a>
 </p>
 
-Hi, I'm [Andreas Malathouras](https://github.com/Deathwalker9959), a passionate self-taught web developer and tech enthusiast from Cyprus . My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Andreas Malathouras](https://github.com/Deathwalker9959), a passionate self-taught programmer and tech enthusiast from Cyprus . My enthusiasm for software development lies in conceptualizing ideas and bringing them to life through well-crafted solutions. I take great care in the experience, architecture, and code quality of the things I build.
 
-I'm 20 years old and currently studying for a Bachelors Degree of Computer Science at [Frederick University](https://www.frederick.ac.cy/school-of-engineering-undergraduate-programs/bsc-in-computer-science). 
+I'm 21 years old and currently studying for a Bachelors Degree of Computer Science at [Frederick University](https://www.frederick.ac.cy/school-of-engineering-undergraduate-programs/bsc-in-computer-science). 
 
 I'm also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
               
@@ -43,14 +33,14 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 # 🛠 **&nbsp;languages and tools:** 
 <i>Tools, languages, and other things that I like to work with.</i> 
 
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" height="30" alt="CSS3" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" height="30" alt="HTML5" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30" alt="Java" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" height="30" alt="MySQL" /></a>
-<a href="https://desktop.github.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/13171334?s=200&v=4" height="30" alt="githubdesktop" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" alt="git" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" height="30" alt="vscode" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="30" alt="PHP" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="30" alt="Vue.js" /></a>
+<a href="https://docs.python.org/3/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" alt="Python" /></a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="30" alt="React Native" /></a>
+<a href="https://golang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="30" alt="Golang" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" height="30" alt="MySQL" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" /></a>
 
 
 <br>
