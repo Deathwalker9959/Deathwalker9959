@@ -15,7 +15,7 @@
 
 Hi, I'm [Andreas Malathouras](https://github.com/Deathwalker9959), a passionate self-taught programmer and tech enthusiast from Cyprus. My enthusiasm for software development lies in conceptualizing ideas and bringing them to life through well-crafted solutions. I take great care in the experience, architecture, and code quality of the things I build.
 
-I'm currently studying for a Bachelors Degree of Computer Science at [Frederick University](https://www.frederick.ac.cy/school-of-engineering-undergraduate-programs/bsc-in-computer-science). 
+I have graduated with a Bachelor's Degree in Computer Science from [Frederick University](https://www.frederick.ac.cy/school-of-engineering-undergraduate-programs/bsc-in-computer-science) and am currently studying for an MSc in Web & Smart Systems.
 
 I'm also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source.
               
@@ -39,27 +39,12 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 <p align='center'>
   ⚙️ &nbsp;Softwares I'm Familiar with:<br><br>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white" />
+  <img src="https://img.shields.io/badge/dnSpy-FF4154?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDA%20Pro-2E86C1?style=for-the-badge&logo=ida%20pro&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
-  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 </p>
-
-📈 &nbsp; My Github Stats
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Deathwalker9959&theme=darkhub&margin-w=15&margin-h=15&coloumn=3&row=1" alt="Andreas" /></a> </p>
-
-<p> <img src="https://github-readme-stats-itsmeshibintmz.vercel.app/api?username=Deathwalker9959&show_icons=true&&line_height=25&width=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="Deathwalker9959" /> 
-
-<a href="http://www.github.com/Deathwalker9959"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Deathwalker9959&stroke=ffffff&background=000000&ring=0891b2&fire=FF0000&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a>
-
-## Contribution Graph
-  <br/>
-   <a href="https://github.com/Deathwalker9959">Andreas's Activity Graph</a>
-  <br/>
-
-<br/>
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/Deathwalker9959/Deathwalker9959/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://github.com/Deathwalker9959/Deathwalker9959/blob/output/github-contribution-grid-snake-white.svg#gh-light-mode-only)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Deathwalker9959&label=Profile%20views&color=blueviolet&style=flat" alt="Andreas Malathouras" /> </p>
 
@@ -70,7 +55,7 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 
 <img align="right" width="50px" src="https://raw.githubusercontent.com/Deathwalker9959/Deathwalker9959/icons/icons/gf.svg" />
 
-- 📖 **Junior Fullstack Developer**\
+- 📖 **Lead Developer**\
 📆 2021-Present\
 📍 **GuestFlip** - Nicosia, Cyprus
 
@@ -78,7 +63,13 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 
 <img align="right" width="50px" src="https://raw.githubusercontent.com/Deathwalker9959/Deathwalker9959/icons/icons/fu.svg" />
 
-- 📖 **Bachelor of Computer Science**\
+- 📖 **MSc Web & Smart Systems**\
+📆 2024 - 2025\
+📍 **Frederick University** - Limassol, Cyprus
+
+<img align="right" width="50px" src="https://raw.githubusercontent.com/Deathwalker9959/Deathwalker9959/icons/icons/fu.svg" />
+
+- 📖 **BSc Computer Science**\
 📆 2020 - 2024\
 📍 **Frederick University** - Limassol, Cyprus
 
@@ -92,6 +83,8 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 <br>
 
 ## Operating Systems
@@ -99,7 +92,7 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white" />
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
 
 </details> 
